@@ -1,0 +1,4 @@
+default:
+  project_id: project_id
+  credentials: credentials/credential.json
+  topic: topic
